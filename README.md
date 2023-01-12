@@ -5,7 +5,8 @@ This programme is to find the  cheapest route to travel between multiple city an
 
 ## HOW TO RUN
 1. Modify routes from "main.py"
-2. Run the code
+2. Install python: (https://www.python.org/downloads/)
+3. Run the code
 ```
     python main.py
 ```
